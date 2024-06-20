@@ -1,6 +1,7 @@
 ## Hi / Hola / Bonjour 👋
 
-**Experienced in Web Development and Digital Transformation | Expanding Expertise in Data Science and AI**
+**Experienced in Web Development and Digital Transformation**
+**Expanding Expertise in Data Science and AI**
 
 - ⚡ I used to work on web stuff
 - 🌱 I’m currently learning python and data sciences
@@ -20,6 +21,8 @@
 ### 🤝🏻 Connect with me
 Feel free to reach out to me via email at [jean-baptiste@olivier.contact](mailto:jean-baptiste@olivier.contact) or connect with me on [LinkedIn](https://www.linkedin.com/in/jbolivier).
 
+
 Thank you for visiting my profile!
+
 
 Last Edited on: 20/06/2024
