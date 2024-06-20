@@ -1,6 +1,7 @@
 ## Hi / Hola / Bonjour 👋
 
 **Experienced in Web Development and Digital Transformation**
+
 **Expanding Expertise in Data Science and AI**
 
 - ⚡ I used to work on web stuff
